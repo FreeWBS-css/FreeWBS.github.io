@@ -1,1 +1,27 @@
+a {
+  text-decoration: none;
+}
+.nav-bar {
+  border: 2px solid black;
+  background-color: white;
+  padding: 6px 32px;
+  font-size: 16px;
+  display: inline-block;
+}
+p {
+  text-align: center;
+}
+.code {
+  border: 2px solid black;
+  background-color: #bababa;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  padding: 6px 32px;
+}
+.code {
+  border: 1px solid gray;
+  color: #333333;
+  background-color: white;
+}
 
